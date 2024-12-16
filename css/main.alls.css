@@ -22659,7 +22659,7 @@
   font-family: 'google Icons';
   font-style: normal;
   font-weight: 400;
-  src: url(/pro/webfonts/googleicons.woff2) format('woff2');
+  src: url(../webfonts/googleicons.woff2) format('woff2');
 }
 
 .google-icons {
