@@ -1,0 +1,72 @@
+{
+  "msg": "Data retrieved successfully",
+  "status": 200,
+  "records": [
+    {
+      "id": "1",
+      "title": "Avatar",
+      "year": "2009",
+      "ret": "7.5",
+      "released": "2009-12-18",
+      "runtime": "162",
+      "language": "English, Spanish",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/ae4816cade1a5b7f29787d0b89610132c72c7747041481c6619b9cc3302c0101.jpg",
+      "m_desc": "This is not working fix it"
+    },
+    {
+      "id": "2",
+      "title": "I Am Legend",
+      "year": "2007",
+      "ret": "6.2",
+      "released": "2007-12-14",
+      "runtime": "101",
+      "language": "English",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/ae4816cade1a5b7f29787d0b89610132c72c7747041481c6619b9cc3302c0101.jpg",
+      "m_desc": ""
+    },
+    {
+      "id": "3",
+      "title": "The Matrix",
+      "year": "1999",
+      "ret": "4.3",
+      "released": "1999-03-31",
+      "runtime": "136",
+      "language": "English",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/ae4816cade1a5b7f29787d0b89610132c72c7747041481c6619b9cc3302c0101.jpg",
+      "m_desc": ""
+    },
+    {
+      "id": "4",
+      "title": "Inception",
+      "year": "2010",
+      "ret": "9.9",
+      "released": "2010-07-16",
+      "runtime": "148",
+      "language": "English, Japanese, French",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/ae4816cade1a5b7f29787d0b89610132c72c7747041481c6619b9cc3302c0101.jpg",
+      "m_desc": ""
+    },
+    {
+      "id": "5",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "ret": "5.9",
+      "released": "2008-07-18",
+      "runtime": "152",
+      "language": "English, Mandarin",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/ae4816cade1a5b7f29787d0b89610132c72c7747041481c6619b9cc3302c0101.jpg",
+      "m_desc": ""
+    },
+    {
+      "id": "6",
+      "title": "Raja yadav palothar",
+      "year": "2024",
+      "ret": "9.9",
+      "released": "2024-12-18",
+      "runtime": null,
+      "language": "English, Hindi",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/11/Pushpa_2-_The_Rule.jpg",
+      "m_desc": "Hii iam raja yadav palothar ram ram"
+    }
+  ]
+}
